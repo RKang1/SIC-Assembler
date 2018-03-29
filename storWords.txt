@@ -1,0 +1,4 @@
+RESW	3
+RESB	1
+WORD	3
+BYTE	1
